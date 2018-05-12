@@ -1,4 +1,5 @@
 _repo: The-Sabbath-A-Paper-Read-at-the-Conference-of-the-Evangelical-Alliance-Held-at-Geneva-Septemb__48182
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Ryle, J. C. (John Charles)
@@ -8,12 +9,17 @@ contributor:
     gutenberg_agent_id: '37191'
     url: http://www.gutenberg.org/2009/agents/37191
     wikipedia: http://en.wikipedia.org/wiki/J._C._Ryle
+covers:
+- cover_type: archival
+  image_path: 48182-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomson, Andrew
     gutenberg_agent_id: '44663'
     url: http://www.gutenberg.org/2009/agents/44663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48182#The-Sabbath-A-Paper-Read-at-the-Conference-of-the-Evangelical-Alliance-Held-at-Geneva-Septemb_
 gutenberg_issued: '2015-02-06'
 gutenberg_type: Text
 identifiers:
